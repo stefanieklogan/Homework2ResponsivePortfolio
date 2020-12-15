@@ -1,3 +1,4 @@
+/*Body, H2 and Container: Styling for all pages */
 h2 {color:#7a2d2d;
     margin: 0;
     text-align:left;
@@ -12,8 +13,10 @@ text-align: justify;
 }
 
 .container, .row, .card, .allimages {background-color: rgb(224, 166, 166);
+    margin-bottom:20px;
 }
 
+/*Styling for About Me page */
 .card {margin-bottom:25px;
 }
 
@@ -33,8 +36,29 @@ text-align: justify;
 .paragraph, .nav, h2, .footer {font-family: 'Lato', sans-serif;
 }
 
+.imagescontainer {padding-left: 4%; 
+    padding-right:4%;
+    padding-bottom:40%;
+}
 
+/*Styling for Portfolio page */
 
+portfolioparagraph {padding-left:15px;
+}
+
+.img, .img-thumbnail {width:200px; 
+    height:200px;
+    border: 4px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*Styling for Contact page */
+.form-text {font-size:12px;
+    font-style: italic;
+}
+
+/*Footer: Styling for all pages */
 .footer {background-color:#333333;
     color:white;
     text-align:center;
@@ -43,4 +67,3 @@ text-align: justify;
     padding-bottom: 10px;
     padding-left: 25px;
 }
-

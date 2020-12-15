@@ -33,9 +33,9 @@
 <a name="portfolio"></a>
 ## Portfolio
 
-* TEXT
+* I learned a lot from image sizing. None of the images rendered well from the beginning. Trial & error to get to the final product that was responsive and still asthetically pleasing.
 
-* TEXT
+* I taught myself how to embed a website into an image. I also taught myself how to add a border to a photo and include into one class for multiple images.
 
 * TEXT
 
@@ -53,6 +53,8 @@
 ## Additional learnings
 
 * I was able to delete a repo via GitHub after realizing I spelled the folder name incorrectly. That led me to deleting the local folder associated with it via console. My computer would not let me delete the folder the "old fashioned way" and I appreciated the 'forced' learning. I was happy with the outcome.
+
+* I'm proud of the progress I've made in a short week re creating a readme file for a site. I feel more confident in how to host images, write a bulleted list and provide a TOC for every file. 
 
 <a name="streetcred"></a>
 ## The other stuff: License & Badges
