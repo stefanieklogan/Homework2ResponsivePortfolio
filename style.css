@@ -1,49 +1,46 @@
-/*Body, H2 and Container: Styling for all pages */
+/*Styling for all pages */
+.h1 {font-family: 'Oswald', sans-serif;
+    font-size:28px;
+}
+
+.nav, .aboutme_p {font-family: 'Lato', sans-serif;
+}
+
 h2 {color:#7a2d2d;
     margin: 0;
     text-align:left;
     padding-left:1%;
     padding-top: 2%;
     padding-bottom: 2%;
+    font-family: 'Lato', sans-serif;
 }
 
 .container {width:auto;
-height:auto;
-text-align: justify;
+    height:auto;
+    text-align: justify;
+    background-color: rgb(224, 166, 166);
+    padding-bottom:10px;
 }
 
-.container, .row, .card, .allimages {background-color: rgb(224, 166, 166);
-    margin-bottom:20px;
+.row {background-color: rgb(224, 166, 166);
+    margin-bottom:0;
 }
 
 /*Styling for About Me page */
-.card {margin-bottom:25px;
-}
-
-.allimages {margin: 1;
-	height: 20%;
-	width: 20%;
-    padding-top: 10px;
-    padding-right: 25px;
-    padding-bottom: 10px;
-    padding-left: 25px;
-}
-
-.h1 {font-family: 'Oswald', sans-serif;
-    font-size:28px;
-}
-
-.paragraph, .nav, h2, .footer {font-family: 'Lato', sans-serif;
-}
-
-.imagescontainer {padding-left: 4%; 
-    padding-right:4%;
-    padding-bottom:40%;
+.allimages {background-color: rgb(224, 166, 166);
+    height: 200px;
+	width: 200px;
+    border: 4px solid white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:10px;
+    margin-right:10px;
 }
 
 /*Styling for Portfolio page */
 
-portfolioparagraph {padding-left:15px;
+.portfolioparagraph {padding-left:50px;
+    margin-left: -43px;
 }
 
 .img, .img-thumbnail {width:200px; 
@@ -66,4 +63,5 @@ portfolioparagraph {padding-left:15px;
     padding-right: 25px;
     padding-bottom: 10px;
     padding-left: 25px;
+    font-family: 'Lato', sans-serif;
 }
