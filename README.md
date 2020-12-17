@@ -1,4 +1,4 @@
-# Responsive Portfolio
+# Stefanie Logan: Responsive Portfolio
 
 ## Table of Contents
 1. [ Application. ](#application)
@@ -13,7 +13,9 @@
 <a name="application"></a>
 ## Link to application
 
-* Click here: 
+* Click here: https://stefanieklogan.github.io/Homework2ResponsivePortfolio/
+
+![Homepage image](https://github.com/stefanieklogan/Homework2ResponsivePortfolio/blob/main/images/home.JPG)
 
 <a name="overview"></a>
 ## Project overview
@@ -34,7 +36,7 @@
 
 * I also coded links with p-tags and played with hover/focus/active styling for mouse behaviors.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^ Picture here?
+![Hover image](https://github.com/stefanieklogan/Homework2ResponsivePortfolio/blob/main/images/mousehover.JPG)
 
 * I still find myself toying with margins, widths and additional CSS styling elements until I see my desired outcome.
 
@@ -47,17 +49,14 @@
 
 * I taught myself how to embed a website into an image. I also taught myself how to add a border to a photo and include into one class for multiple images.
 
-* TEXT
+* It's important to ensure you've closed all your div tags. My container was too long & my footer was too narrow. Two days and two missing div tags I am now in better shape.
 
 <a name="contact"></a>
 ## Contact
 
-* TEXT
-    * bullet
-    * bullet
+* I have a feeling forms & I are going to be friends. I'm used to building them in MS Access as well as other applications. This page, while not content rich, came together readily quickly. I'm looking forward to the backend storage of form data later on. #formsarecool
 
-![Image of css file](https://github.com/stefanieklogan/Homework1CodeRefractor/blob/main/assets/images/cssexample.PNG)
-
+![Contact image](https://github.com/stefanieklogan/Homework2ResponsivePortfolio/blob/main/images/contact.JPG)
 
 <a name="learnings"></a>
 ## Additional learnings
@@ -74,5 +73,3 @@
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/<@StefanieDCP>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
