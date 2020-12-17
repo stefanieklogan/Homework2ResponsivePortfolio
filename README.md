@@ -32,6 +32,10 @@
     * Rows & Columns
     * Google fonts
 
+* I also coded links with p-tags and played with hover/focus/active styling for mouse behaviors.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^ Picture here?
+
 * I still find myself toying with margins, widths and additional CSS styling elements until I see my desired outcome.
 
 * The background-color for this page was also a journey - I enjoyed the trial-and-error to figure out what element controlled the background-color for several different areas on the page.
