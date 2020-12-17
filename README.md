@@ -31,6 +31,7 @@
     * Page layouts
     * Responsive view
     * Utilizing Bootstrap content
+    * Weening myself off of CSS
     * Rows & Columns
     * Google fonts
 
