@@ -22,7 +22,7 @@
 
 * The project is the start of something new! I took this homework assignment as a challenge to build a real portfolio I intend to include on technology-focused resumes moving forward. I intend for the pages to be a resource for employers to get to know my work and probe me for more answers during interviews.
 
-* My portfolio and its pages is a work-in-progress. As I continue my bootcamp journey, I intend to add/remove/replace projects depending on the job posting.
+* My website and its pages are a work-in-progress. As I continue my bootcamp journey, I intend to add/remove/replace projects depending on the job posting.
 
 <a name="me"></a>
 ## About Me
@@ -30,8 +30,8 @@
 * The 'About Me' page takes on new skills including:
     * Page layouts
     * Responsive view
-    * Utilizing Bootstrap content
-    * Weening myself off of CSS
+    * Bootstrap content
+    * Shorter CSS file
     * Rows & Columns
     * Google fonts
 
@@ -39,9 +39,9 @@
 
 ![Hover image](https://github.com/stefanieklogan/Homework2ResponsivePortfolio/blob/main/images/mousehover.JPG)
 
-* I still find myself toying with margins, widths and additional CSS styling elements until I see my desired outcome.
+* I still find myself toying with margins, widths. Once I built all the pages, I went back and added styling from Bootstrap and removed code from CSS.
 
-* The background-color for this page was also a journey - I enjoyed the trial-and-error to figure out what element controlled the background-color for several different areas on the page.
+* The background-color for this page was also a journey - I enjoyed the trial & error to figure out what element controlled the background-color for several different areas on the page.
 
 <a name="portfolio"></a>
 ## Portfolio
@@ -50,7 +50,7 @@
 
 * I taught myself how to embed a website into an image. I also taught myself how to add a border to a photo and include into one class for multiple images.
 
-* It's important to ensure you've closed all your div tags. My container was too long & my footer was too narrow. Two days and two missing div tags I am now in better shape.
+* It's important to ensure you've closed all your div tags. My container was too long & my footer was too narrow. Two days and two missing div tags later I am now in better shape.
 
 <a name="contact"></a>
 ## Contact
