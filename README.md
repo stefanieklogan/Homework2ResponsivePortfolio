@@ -66,6 +66,8 @@
 
 * I'm proud of the progress I've made in a short week re creating a readme file for a site. I feel more confident in how to host images, write a bulleted list and provide a TOC for every file. I have also incorporated BCS feedback from my code refractor project into this assignment.
 
+* Lastly, my code refractor homework was 46% CSS. In my responsive portfolio work, CSS made up less than 6% of the code used. I think that's a good story for the power of Bootstrap.
+
 <a name="streetcred"></a>
 ## The other stuff: License & Badges
 
