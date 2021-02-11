@@ -1,0 +1,98 @@
+*, *::before, *after {
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+
+.body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+#question {
+  margin-left: 10px; 
+  font-size:30px;
+  color:black;
+}
+
+.questionContainer, .gameimg {
+  max-width: 90%;
+  background-color:rgb(77, 139, 115);
+  display: flex;
+  border-radius: 10px;
+}
+
+.scoreContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 12px solid black;
+  width: 70%;
+  border-radius: 10px;
+  font-family: 'Oswald', sans-serif;
+  }
+
+  .controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.btn, .submit {
+  font-family: 'Oswald', sans-serif;
+  font-size:28px;
+  color:white;
+  background-color: rgb(22, 22, 102);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.btn:hover {
+  border-color: yellow;
+  cursor: pointer;
+}
+
+.start-btn {
+  font-size:40px;
+  color:white;
+  background-color: rgb(36, 158, 111);
+  margin-top:30px;
+}
+
+.scoreboard, .timer {
+  color: black;
+  font-size: 20px;
+}
+
+.hide {
+  display: none;
+}
+
+.instructions {
+  margin-top:15px;
+  margin-bottom: 15px;
+  font-style: italic;
+}
+
+  #name {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+  }
+
+  #finalScore {
+    font-size:150%;
+    font-weight:bold;
+  }

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Scoreboard:Code Quiz</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+  <header>
+    <h1 class="text-center my-4">Scoreboard</h1>
+    <hr>
+  </header>
+<div class="scoreboardContainer">
+  <div class="row">
+    <div class="col-sm-12 blockquote text-center bestScore" id="scoreList">
+      <ul id="scoreboard-list" class="col-sm-12 blockquote text-center my-5 scoresList"></ul>
+  </div> 
+</div>
+</div>
+
+<hr>
+<div class="container">
+  <div class="row">
+    <div class="col-md">
+      <a href="./index.html">
+        <button class="col-sm-12 btn text-center">Try again</button>
+      </a>
+    </div>
+    <div class="col-md">
+      <button class="col-sm-12 text-center clearBtn btn" id="clearBtn">Clear scores</button>
+    </div>
+  </div>
+</div>
+
+
+<!-- jQuery, javascript file for the Bootstrap's javascript file to function -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Bootstrap's javascript file that allows the nav menu to work  -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+<script src="./scoreboard.js"></script>
+
+  </body>
+</html>
